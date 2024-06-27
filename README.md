@@ -33,7 +33,10 @@
 - Metodologías Ágiles
 - Gestión de Proyectos
 - Inteligencia Artificial
+- SQL
+- R
+- Data Analyst
 
 ## Contacto
 - **Email:** rop.martel[at]gmail.com
-- **Teléfono:** +50378748247
+- **Teléfono:** 
